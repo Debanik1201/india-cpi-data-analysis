@@ -59,6 +59,8 @@ Analyzed the relationship between crude oil prices and CPI to understand whether
 ## Dashboard
 
 The workbook contains an interactive dashboard summarizing important CPI trends and analysis.
+<img width="1281" height="611" alt="Project dashboard" src="https://github.com/user-attachments/assets/407febd3-ea43-4587-9481-a619ab107337" />
+
 
 ## Key Learning
 
